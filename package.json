@@ -1,0 +1,24 @@
+{
+  "name": "joaosilva",
+  "version": "1.0.0",
+  "description": "Cartão Virtual de Visitas Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagolpadua/joaosilva.git"
+  },
+  "keywords": [
+    "cartao",
+    "visita",
+    "node"
+  ],
+  "author": "Tiago Lage Payne de Pádua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagolpadua/joaosilva/issues"
+  },
+  "homepage": "https://github.com/tiagolpadua/joaosilva#readme"
+}
